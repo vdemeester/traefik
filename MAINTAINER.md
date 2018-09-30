@@ -3,7 +3,6 @@
 ## The team
 
 * Emile Vauge [@emilevauge](https://github.com/emilevauge)
-* Vincent Demeester [@vdemeester](https://github.com/vdemeester)
 * Ed Robinson [@errm](https://github.com/errm)
 * Daniel Tomcej [@dtomcej](https://github.com/dtomcej)
 * Manuel Zapf [@SantoDE](https://github.com/SantoDE)
